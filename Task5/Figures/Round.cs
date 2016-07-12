@@ -55,7 +55,6 @@ namespace Task5
             {
                 return Math.PI * Math.Pow(R, 2);
             }
-            private set { }
 
         }
 
@@ -68,7 +67,6 @@ namespace Task5
             {
                 return 2 * Math.PI * R;
             }
-            private set { }
         }
 
         #region Methods

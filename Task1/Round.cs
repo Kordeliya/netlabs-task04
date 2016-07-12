@@ -51,7 +51,6 @@ namespace Task1
             {
                 return Math.PI * Math.Pow(R, 2);
             }
-            private set {}
 
         }
 
@@ -62,9 +61,8 @@ namespace Task1
         {
             get
             {
-                return 2* Math.PI * R;
+                return 2 * Math.PI * R;
             }
-            private set{}
         }
 
     }

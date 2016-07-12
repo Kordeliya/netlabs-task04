@@ -24,8 +24,6 @@ namespace TASK3
             {
                 return GetAge();
             }
-
-            private set { }
         }
 
         public string FullName
@@ -34,8 +32,6 @@ namespace TASK3
             {
                 return String.Format("{0} {1} {2}",FirstName, MiddleName, LastName);
             }
-
-            private set { }
         }
 
 
