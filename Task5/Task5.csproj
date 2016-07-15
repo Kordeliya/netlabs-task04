@@ -44,8 +44,10 @@
     <Compile Include="Figures\Figure.cs" />
     <Compile Include="Figures\IFigure.cs" />
     <Compile Include="Figures\Line.cs" />
+    <Compile Include="Exception\NotRightParametrsFiguresExceprion.cs" />
     <Compile Include="Figures\Rectangle.cs" />
     <Compile Include="Figures\Ring.cs" />
+    <Compile Include="Exception\FigureExeption.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Figures\Round.cs" />

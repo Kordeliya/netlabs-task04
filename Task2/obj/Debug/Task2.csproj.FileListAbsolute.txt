@@ -16,3 +16,9 @@ C:\Users\Natali\Desktop\Natalia_Zueva_OOP_2\Natalia_Zueva_OOP_2\Natalia_Zueva_OO
 C:\Users\Natali\Desktop\Natalia_Zueva_OOP_2\Natalia_Zueva_OOP_2\Natalia_Zueva_OOP\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
 C:\Users\Natali\Desktop\Natalia_Zueva_OOP_2\Natalia_Zueva_OOP_2\Natalia_Zueva_OOP\Task2\obj\Debug\Task2.exe
 C:\Users\Natali\Desktop\Natalia_Zueva_OOP_2\Natalia_Zueva_OOP_2\Natalia_Zueva_OOP\Task2\obj\Debug\Task2.pdb
+D:\GIT\Figures\netlabs-task04\Task2\bin\Debug\Task2.exe.config
+D:\GIT\Figures\netlabs-task04\Task2\bin\Debug\Task2.exe
+D:\GIT\Figures\netlabs-task04\Task2\bin\Debug\Task2.pdb
+D:\GIT\Figures\netlabs-task04\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+D:\GIT\Figures\netlabs-task04\Task2\obj\Debug\Task2.exe
+D:\GIT\Figures\netlabs-task04\Task2\obj\Debug\Task2.pdb

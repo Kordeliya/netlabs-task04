@@ -14,6 +14,8 @@ namespace Task2
 
         public Triangle(double a, double b, double c)
         {
+            if (!CanBeTriangle(a, b, c))
+                throw new Exception("Размеры сторон не соответствуют правилу");
             SideA = a;
             SideB = b;
             SideC = c;

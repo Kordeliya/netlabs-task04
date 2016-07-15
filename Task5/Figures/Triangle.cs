@@ -19,6 +19,8 @@ namespace Task5
 
         public Triangle(double a, double b, double c)
         {
+            if (CanBeTriangle(a, b, c))
+                throw new FigureExeption();
             SideA = a;
             SideB = b;
             SideC = c;
