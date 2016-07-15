@@ -1,6 +1,0 @@
-D:\GIT\Figures\netlabs-task04\Task1\bin\Debug\Task1.exe.config
-D:\GIT\Figures\netlabs-task04\Task1\bin\Debug\Task1.exe
-D:\GIT\Figures\netlabs-task04\Task1\bin\Debug\Task1.pdb
-D:\GIT\Figures\netlabs-task04\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
-D:\GIT\Figures\netlabs-task04\Task1\obj\Debug\Task1.exe
-D:\GIT\Figures\netlabs-task04\Task1\obj\Debug\Task1.pdb
